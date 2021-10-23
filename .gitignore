@@ -4,3 +4,4 @@ old
 
 # Files
 .env
+package-lock.json
